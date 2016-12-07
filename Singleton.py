@@ -17,5 +17,4 @@ a = Singleton()
 print('Creating instance', a.get_instance())
 
 b = Singleton()
-
 c = Singleton()
